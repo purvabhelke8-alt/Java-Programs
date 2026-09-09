@@ -110,3 +110,30 @@ public class codemain {
         sc.close();
     }
 }
+
+OUTPUT:
+===== PUBLICATION MANAGEMENT SYSTEM =====
+Enter Book Title: JAVA PROGRAMMING WITH OOP
+Enter Book Price: 450
+Enter Book Copies Sold: 6
+Enter Author Name: E BALGURUSAMY
+
+----- BOOK DETAILS -----
+Title: JAVA PROGRAMMING WITH OOP
+Price: 450.0
+Copies Sold: 6
+Author: E BALGURUSAMY
+Total Sale: 2700.0
+
+Enter Magazine Title: THE INDIA
+Enter Magazine Price: 890
+Enter Magazine Copies Sold: 9
+Enter Issue Number: 5
+
+----- MAGAZINE DETAILS -----
+Title: THE INDIA
+Price: 890.0
+Copies Sold: 9
+Issue Number: 5
+Total Sale: 8010.0
+
