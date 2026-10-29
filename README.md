@@ -28,7 +28,7 @@ The main purpose of this repository is to practice Java programming and understa
 
 ## 👩‍💻 Author
 
-Purva Bhelke
+Purva Santosh Bhelke
 
 ---
 
